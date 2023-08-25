@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# gpt_key.py 무시
+gpt_api_key.py
+
 # Translations
 *.mo
 *.pot
